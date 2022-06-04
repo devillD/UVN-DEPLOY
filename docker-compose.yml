@@ -1,6 +1,0 @@
-services:
-  x:
-    build: .
-    ports:
-      - "443:443"
-    restart: unless-stopped
